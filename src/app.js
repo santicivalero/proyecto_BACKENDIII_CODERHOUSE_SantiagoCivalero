@@ -1,4 +1,3 @@
-// src/app.js
 import express from 'express';
 import cookieParser from 'cookie-parser';
 import swaggerUi from 'swagger-ui-express';
